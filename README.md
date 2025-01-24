@@ -16,9 +16,8 @@
 - **GUI Framework:** Java Swing
 - **Development Tools:** Eclipse IDE, GitHub
 
-## Screenshots
-<img src="[https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp](https://github.com/JacksonRinguette/wordle-project/blob/main/WordleGameplay.png" alt="Wordler Gameplay" width="400" height="300">
-
+## Gameplay
+<img src="https://github.com/JacksonRinguette/wordle-project/blob/main/WordleGameplay.png" alt="Wordler Gameplay" width="500" height="450">
 
 ## How to Run the Game
 
