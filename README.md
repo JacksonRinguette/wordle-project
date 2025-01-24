@@ -17,7 +17,7 @@
 - **Development Tools:** Eclipse IDE, GitHub
 
 ## Screenshots
-![Wordler Gameplay]()
+![Wordler Gameplay](https://github.com/JacksonRinguette/wordle-project/blob/main/WordleGameplay.png)
 
 ## How to Run the Game
 
